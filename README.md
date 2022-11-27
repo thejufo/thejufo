@@ -1,6 +1,6 @@
 
 
-### Hi there 👋, name's jufo...Thanks for visiting my Profile
+- ### Hi there 👋, name's thejufo...Thanks for visiting my Profile
             
 
 - 🔭 I’m currently working on open-source projects (Quasar framework and Vue.js, Angular 12, Python 3.X)
