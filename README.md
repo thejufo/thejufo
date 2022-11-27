@@ -33,6 +33,8 @@ Flutter, Nextjs, Kotlin, AWS...
   <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=thejufo&count_private=true&include_all_commits=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thejufo&layout=compact" />
 </div>
+
+##
             
 <p>
   <a href="https://twitter.com/thejufo">
