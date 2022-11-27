@@ -44,7 +44,7 @@ Flutter, Nextjs, Kotlin, AWS...
     <img src="https://img.shields.io/reddit/user-karma/combined/thejufo?style=social" alt="Reddit">
   </a>&ensp;
   <a href="https://stackoverflow.com/users/10872323/thejufo?tab=profile">
-    <img src="https://img.shields.io/stackexchange/stackoverflow/r/4762957?color=orange" alt="Stackoverflow">
+    <img src="https://img.shields.io/stackexchange/stackoverflow/r/10872323?color=orange" alt="Stackoverflow">
   </a>&ensp;
   <a href="https://dev.to/thejufo">
     <img src="https://img.shields.io/badge/dev.to-Follow-lightgrey?style=social&logo=dev.to" alt="dev.to">
