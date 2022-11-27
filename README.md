@@ -3,7 +3,7 @@
 - ### Hi there 👋, name's thejufo...Thanks for visiting my Profile
             
 
-- 🔭 I’m currently working on open-source projects (Quasar framework and Vue.js, Angular 12, Python 3.X)
+- 🔭 I’m currently working on open-source projects (Quasar framework)
 - 🌱 Always learning new Technologies
 - 🏗 I’m developing free quasar app extensions, chrome extensions, templates and components
 - 💬 Ask me about Quasar framework and Vue.js! And many more technologies like Python-flask framework, JavaScript, jQuery, AngularJS, Angular ...
