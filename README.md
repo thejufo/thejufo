@@ -43,7 +43,7 @@ Flutter, Nextjs, Kotlin, AWS...
   <a href="https://www.reddit.com/user/thejufo">
     <img src="https://img.shields.io/reddit/user-karma/combined/thejufo?style=social" alt="Reddit">
   </a>&ensp;
-  <a href="https://stackoverflow.com/users/4762957/thejufo?tab=profile">
+  <a href="https://stackoverflow.com/users/10872323/thejufo?tab=profile">
     <img src="https://img.shields.io/stackexchange/stackoverflow/r/4762957?color=orange" alt="Stackoverflow">
   </a>&ensp;
   <a href="https://dev.to/thejufo">
