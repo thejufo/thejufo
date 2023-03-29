@@ -46,13 +46,13 @@
 </p>
 
  <div>
-  <h1>🏆 Github Profile Trophy</h4>
+  <h2>🏆 Github Profile Trophy</h4>
   <img src="https://github-profile-trophy.vercel.app/?username=thejufo&column=7"/>
 </div>
             
 
 <div>
-  <h1>👨🏻‍💻 GitHub Usage stats</h4>
+  <h2>👨🏻‍💻 GitHub Usage stats</h4>
   <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=thejufo&count_private=true&include_all_commits=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thejufo&layout=compact" />
 </div>
@@ -75,4 +75,4 @@
 </p>
 
 
-<p><img src="https://visitor-badge.glitch.me/badge?page_id=Spiderpig86.Spiderpig86" alt="visitors"></p>
+<p><img src="https://visitor-badge.glitch.me/badge?page_id=thejufo.thejufo" alt="visitors"></p>
