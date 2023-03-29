@@ -1,6 +1,6 @@
 
 
-<h2>Hey 👋, I'm <a href="https://thejufo.me/">Stanley</a></h2>
+<h2>Hey 👋, I'm <a href="https://thejufo.me/">Cabdifataax</a></h2>
 <p>I'm currently a software engineer at <strong><a href="https://www.telesom.com/">Telesom</a></strong> and formerly at <strong><a href="https://muraadso.com/">Muraadso</a></strong> based in 🌁 Hargeisa. I am working on some side projects, learning a couple new dishes, and trying to conquer the world as Tannu Tuva in HOI4.</p>
 <p><a href="https://thejufo.me"><img src="https://img.shields.io/badge/-thejufo.me-4E69C8?style=flat-square&amp;labelColor=4E69C8&amp;logo=Firefox&amp;link=https://thejufo.me" alt="Website Badge"></a> <a href="https://medium.com/@thejufo"><img src="https://img.shields.io/badge/-@thejufo-14c767?style=flat-square&amp;labelColor=14c767&amp;logo=Medium&amp;link=https://medium.com/@thejufo" alt="Medium Badge"></a> <a href="https://www.linkedin.com/in/thejufo/"><img src="https://img.shields.io/badge/-@thejufo-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/thejufo/" alt="LinkedIn Badge"></a> <a href="https://dev.to/thejufo"><img src="https://img.shields.io/badge/-@thejufo-0A0A0A?style=flat-square&amp;labelColor=0A0A0A&amp;logo=dev.to&amp;link=https://dev.to/thejufo" alt="DevTo Badge"></a></p>
 <p>🍌 Don't forget to get some Potassium 🍌</p>
@@ -25,7 +25,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="vue" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="bootstrap" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwind/tailwind-plain.svg" alt="gulp" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="gulp" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="25" height="25" />
@@ -46,13 +46,13 @@
 </p>
 
  <div>
-  <h4>🏆 Github Profile Trophy</h4>
+  <h1>🏆 Github Profile Trophy</h4>
   <img src="https://github-profile-trophy.vercel.app/?username=thejufo&column=7"/>
 </div>
             
 
 <div>
-  <h4>👨🏻‍💻 GitHub Usage stats</h4>
+  <h1>👨🏻‍💻 GitHub Usage stats</h4>
   <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=thejufo&count_private=true&include_all_commits=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thejufo&layout=compact" />
 </div>
@@ -74,3 +74,5 @@
   </a>
 </p>
 
+
+<p><img src="https://visitor-badge.glitch.me/badge?page_id=Spiderpig86.Spiderpig86" alt="visitors"></p>
