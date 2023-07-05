@@ -12,7 +12,7 @@
 <li>🧐 Learning about <strong>serverless architectures</strong>, <strong>distributed systems</strong>, and a bit of <strong>ML</strong>.</li>
 <li>👨‍💻 Most of my projects are available on <a href="https://github.com/thejufo">Github</a>.</li>
 <li>📝 I <del>regulary</del> write articles on <a href="https://blog.thejufo.me">my blog</a>.</li>
-<li>💬 Ping me about <strong>React, Flutter, Security, and Cloud stuff</strong>.</li>
+<li>💬 Ping me about <strong>Android, React, Flutter, Security, and Cloud stuff</strong>.</li>
 <li>📙 Check out my <a href="https://www.thejufo.me/resume/resume.pdf">resume</a>.</li>
 <li>📫 How to reach me: thejufo@gmail.com</li>
 <li>🙏 Support is appreciated: https://www.buymeacoffee.com/thejufo<li>
