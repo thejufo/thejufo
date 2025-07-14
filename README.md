@@ -16,7 +16,6 @@
 <li>💬 Ping me about <strong>Android, React, Flutter, Security, and Cloud stuff</strong>.</li>
 <li>📙 Check out my <a href="https://www.thejufo.me/resume/resume.pdf">resume</a>.</li>
 <li>📫 How to reach me: thejufo@gmail.com</li>
-<li>🙏 Support is appreciated: https://www.buymeacoffee.com/thejufo<li>
 </ul>
 
 <h2>🚀 Some Tools I Use</h2>
